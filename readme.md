@@ -1,3 +1,5 @@
+# Configurando-uma-instancia-de-Banco-de-Dados-na-Azure
+
 Para configurar uma instância de Banco de Dados na Azure, você pode seguir os seguintes passos usando o portal do Azure.
 Vamos considerar a criação de um banco de dados SQL como exemplo:
 
@@ -39,4 +41,4 @@ necessidades específicas, como escalabilidade, segurança e integrações adici
 
 
 
-# Configurando-uma-instancia-de-Banco-de-Dados-na-Azure
+
